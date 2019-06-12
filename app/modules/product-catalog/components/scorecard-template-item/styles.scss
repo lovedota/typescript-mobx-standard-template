@@ -1,0 +1,30 @@
+@import 'app/sass/variables';
+
+.wrapper {
+  border: 1px solid black;
+  width: 300px;
+  padding: 12px;
+  margin: 12px;
+  border-radius: 8px;
+}
+
+.header {
+  color: $green;
+}
+
+.body {
+  margin: 8 0 8 0;
+}
+
+.information {
+  color: black;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.description {
+  color: $gray-300;
+}
