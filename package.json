@@ -7,7 +7,7 @@
     "build": "cross-env NODE_ENV=production webpack --mode production",
     "lint:staged": "eslint '*/**/*.{js,ts,tsx}' --fix",
     "stylelint:staged": "stylelint --syntax scss --fix",
-    "test:coverage": "jest --collectCoverage --ci",
+    "test": "jest --collectCoverage --ci",
     "test:staged": "jest --ci --bail --findRelatedTests"
   },
   "husky": {

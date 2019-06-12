@@ -1,3 +1,7 @@
+### Travis
+
+- [![Build Status](https://travis-ci.org/lovedota/typescript-mobx-standard-template.svg?branch=master)](https://travis-ci.org/lovedota/typescript-mobx-standard-template)
+
 # Description
 
 - This is a latest template for using TypeScript + Eslint + Prettier + Babel + Mobx + Tree Shaking + React Router
